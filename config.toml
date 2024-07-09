@@ -1,6 +1,6 @@
 baseurl = "https://my-domine.com"
 title = "Julia Lautzschmann Blog"
-theme = "hugo-theme-cleanwhite-custom"
+theme = "hugo-theme-cleanwhite"
 languageCode = "en"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
