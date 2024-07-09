@@ -1,4 +1,4 @@
-baseurl = "https://my-domine.com"
+baseurl = "https://julialmn.github.io/julialautzschmann-website/"
 title = "Julia Lautzschmann Blog"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en"
@@ -21,7 +21,7 @@ home = ["HTML", "RSS", "Algolia"]
   upstreamAttribution = true
 
   image_404 = "img/home-bg.jpeg"
-  title_404 = "404 ERRORRRRRRRRRRRR :("
+  title_404 = "404 Error :("
   omit_categories = false
 
   # leancloud storage for page view counter
@@ -42,19 +42,6 @@ home = ["HTML", "RSS", "Algolia"]
   featured_tags = true 
   featured_condition_size = 1 
 
-  # Baidu Analytics
-  ba_track_id = ""
-  
-  # We need a proxy to access Disqus api in China
-  # Follow https://github.com/zhaohuabing/disqus-php-api to set up your own disqus proxy
-  disqus_proxy = ""
-  disqus_site = ""
-
-  # Twikoo comments
-  # Follow https://twikoo.js.org/ to set up your own env_id
-  twikoo_env_id = ""
-
-
   friends = false
   bookmarks = false
   about_me = true
@@ -68,23 +55,8 @@ home = ["HTML", "RSS", "Algolia"]
   email          = "julia-lmn@web.de"
   linkedin       = "https://www.linkedin.com/in/julia-lautzschmann-5417561b0"
   instagram     = "https://www.instagram.com/julialmn/?hl=en"
+
   
-  [[params.bookmark_link]]
-  title = "ServiceMesher"
-  href =  "http://www.servicemesher.com"
-  [[params.bookmark_link]]
-  title =  "Pxhere"
-  href = "https://pxhere.com"
-  [[params.bookmark_link]]
-  title = "unsplash"
-  href = "https://unsplash.com"
-  
-  #[[params.addtional_menus]]
-  # title =  "ARCHIVE"
-  # href =  "/archive/"
-  #[[params.addtional_menus]]
-  #title =  "NOTES"
-  #href =  "/notes/"
   [[params.addtional_menus]]
   title =  "ABOUT"
   href =  "/about/"
