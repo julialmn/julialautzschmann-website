@@ -1,4 +1,4 @@
-baseurl = "https://julialmn.github.io/julialautzschmann-website/"
+baseurl = "https://julialmn.github.io/"
 title = "Julia Lautzschmann Blog"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en"
@@ -59,7 +59,7 @@ home = ["HTML", "RSS", "Algolia"]
   
   [[params.addtional_menus]]
   title =  "ABOUT"
-  href =  "/julialautzschmann-website/about/"
+  href =  "/about/"
 
 [outputFormats.Algolia]
 baseName = "algolia"
