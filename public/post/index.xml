@@ -6,14 +6,14 @@
     <description>Recent content in Posts on Julia Lautzschmann Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://julialmn.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Why Aussies are amazing</title>
-      <link>https://julialmn.github.io/post/readme/</link>
-      <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://julialmn.github.io/post/readme/</guid>
-      <description>Aussies are so fucking cool Isn&amp;rsquo;t it?</description>
+      <title>Example Blog Post</title>
+      <link>https://julialmn.github.io/post/example_blog_post/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://julialmn.github.io/post/example_blog_post/</guid>
+      <description>Title Section 1 Content&amp;hellip;.&#xA;Section 2 Content&amp;hellip;</description>
     </item>
   </channel>
 </rss>
